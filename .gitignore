@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# IDEs
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Streamlit
+*.streamlit/
+
+# CSV and other output files
+*.csv
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Other potential files
+*.sqlite
